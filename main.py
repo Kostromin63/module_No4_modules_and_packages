@@ -1,3 +1,3 @@
 
 
-print('Hellщ')
+print('Hello')
