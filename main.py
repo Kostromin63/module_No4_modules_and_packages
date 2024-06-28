@@ -7,4 +7,4 @@ def test_function():
 
 
 test_function()
-# inner_function()
+# inner_function() вызывает ошибку, т.к. фукция в недоступном пространстве из текущего контекста
